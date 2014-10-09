@@ -107,7 +107,7 @@ a {
     position: absolute;
     right: 0;
     top: 0;
-    background-image:url(''cover.jpg'');
+    background-image:url(cover.jpg);
     background-size:cover;
     background-attachment:fixed;
 }
