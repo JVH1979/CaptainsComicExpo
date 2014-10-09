@@ -3,7 +3,7 @@
 
 div#wrapperHeader {
  width:100%;
- height;200px; /* height of the background image? */
+ height: 200px; /* height of the background image? */
  background:url(assets/land1.jpg) repeat-x 0 0;
  text-align:center;
 }
@@ -44,7 +44,7 @@ center{
 }
 
 .modal-content{
-  background-color: #C41227
+  background-color: #C41227;
 }
 
 .modal-header{
