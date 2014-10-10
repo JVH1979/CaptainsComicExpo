@@ -14,6 +14,7 @@
 //= require jquery
 //= require jquery_ujs
 //= require bootstrap.min
+//= require bootstrap-table.min
 //= require instafeed.min
 //= require_tree .
 

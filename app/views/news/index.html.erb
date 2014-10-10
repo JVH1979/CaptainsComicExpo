@@ -78,9 +78,7 @@
      <div class="nav-clear"></div>
      <div class="panel panel-primary">
         <div class="panel-heading"><div class="news"><%= link_to( news_index_path(@news), :method => :get) do %>
-            <p><strong><%= link_to news.headline, news_path(news) %><strong></p>
-            <br>
-            <br>
+            <%= link_to news.headline, news_path(news) %>
         </div>
         </div>
             <% end %>
