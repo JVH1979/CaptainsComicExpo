@@ -170,7 +170,7 @@ a {
 /* bootstrap overrides */
 
 h1,h2,h3 {
-   font-weight:800;
+   font-weight:500;
    font-family:'Permanent Marker', cursive;
    text-shadow: 4px 2px #A80000;
    color: #EB072D;
@@ -206,3 +206,24 @@ small.text-muted {
   font-family: 'Permanent Marker', cursive;
 }
 
+.multicol-helper {
+    position: absolute;
+    top: 2rem;
+    left: 3rem;
+    right: 3rem;
+    bottom: 3rem;
+    -webkit-column-width: 20rem;
+    -webkit-column-gap: 5rem;
+    -webkit-column-rule: 1px dotted rgba(0,0,0,0.05);
+}
+
+.news{
+  font-family: 'Cabin', sans-serif;
+   font-size: 30px;
+   font-color: #3A3A3D;
+}
+
+.p{
+  font-size: 72px;
+
+}
